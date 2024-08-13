@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+}
+.first {
+    /* background: radial-gradient(white 1%, blue); */
+    background: linear-gradient(to left ,blue 50% , rgba(83, 65, 206, 0.802));
+    height: 500px;
+    text-align: center;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+    padding-top: 30px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.signup {
+    color: black;
+    padding: 7px 15px;
+    border-radius: 20px;
+}
+.mid {
+    display: flex;
+    gap: 30px;
+}
+.first h1 {
+    color: white;
+    font-size: 4rem;
+    margin-top: 100px;
+}
+.first p {
+    color: white;
+    margin: 30px;
+}
+.div {
+    position: relative;
+    width: 100%;
+}
+.fa-envelope {
+    position: absolute;
+    left: 40%;
+    top: 30%;
+}
+.mail {
+    padding: 15px 101px;
+    border-radius: 25px;
+}
+.start {
+    padding: 10px 20px;
+    background-color: blue;
+    border-radius: 20px;
+    position: absolute;
+    color: white;
+    left: 54%;
+    top: 5px;
+}
+.start:hover {
+    cursor: pointer;
+}
+#Error {
+    color: red;
+}
+/* second */
+.second {
+    background-color: white;
+    text-align: center;
+    height: 800px;
+}
+.second h1 {
+    font-size: 3rem;
+    margin: 50px;
+}
+header {
+    width: 100%;
+}
+.three {
+display: flex;
+justify-content: space-around;}
+.each {
+    background-color: whitesmoke;
+    width: 30%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.de {
+    position: relative;
+}
+svg {
+    position: absolute;
+    right: 43%;
+    top: 20%;
+}
+h2{
+    margin: 20px;
+}
+/* third */
+.third {
+    display: flex;
+    background-color: whitesmoke;
+    justify-content: space-around;
+    /* align-items: center; */
+    /* height: 700px; */
+    
+}
+.words {
+    margin-left: 50px;
+
+}
+.words h1 {
+    font-size: 4rem;
+    margin-top: 190px;
+    margin-bottom: 20px;
+}
+.get {
+    padding: 15px;
+    margin-top: 20px;
+    background-image: linear-gradient(to left , blue 40% , white);
+    font-weight: bold;
+    border-radius: 30px;
+}
+/* fourth */
+.fourth {
+    height: 500px;
+    background: linear-gradient(to left , blue 50% , rgb(105, 107, 220));
+}
