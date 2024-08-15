@@ -129,3 +129,22 @@ h2{
     height: 500px;
     background: linear-gradient(to left , blue 50% , rgb(105, 107, 220));
 }
+.gett {
+    padding: 15px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border: 0;
+    border-radius: 30px;
+    font-size: xx-small;
+    color: blue;
+}
+.fourth h1 {
+    font-size: 3rem;
+}
+.col {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: whitesmoke;
+    color: blue;
+}
